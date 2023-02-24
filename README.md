@@ -11,7 +11,7 @@
 
 ## <b>Starting</b>
 
-### 1 - Clone or fork the repository inside eclipse-workspace.
+### 1 - Use this template and create a new repository. Then clone the repository inside eclipse-workspace.
 
 ### 2 - In Eclipse, click File > Import. The following window will open. Under General, select Projects from Folder or Archive. Click Next.
 <img src="https://cdn.discordapp.com/attachments/794976752836673536/1078791845963903006/image.png" />

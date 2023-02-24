@@ -12,11 +12,11 @@
 		</buildCommand>
 		<buildCommand>
 			<name>org.eclipse.ui.externaltools.ExternalToolBuilder</name>
-			<triggers>clean,full,incremental,</triggers>
+			<triggers>auto,full,incremental,</triggers>
 			<arguments>
 				<dictionary>
 					<key>LaunchConfigHandle</key>
-					<value>&lt;project&gt;/.externalToolBuilders/New_Builder.launch</value>
+					<value>&lt;project&gt;/.externalToolBuilders/teste_plugin_builder.launch</value>
 				</dictionary>
 			</arguments>
 		</buildCommand>

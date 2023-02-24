@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>TESTPlugin_</name>
+	<name>Plugins_</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 			<arguments>
 				<dictionary>
 					<key>LaunchConfigHandle</key>
-					<value>&lt;project&gt;/.externalToolBuilders/teste_plugin_builder.launch</value>
+					<value>&lt;project&gt;/.externalToolBuilders/plugins_builder.launch</value>
 				</dictionary>
 			</arguments>
 		</buildCommand>

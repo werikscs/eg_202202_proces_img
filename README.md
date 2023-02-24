@@ -1,8 +1,10 @@
+## This repository was created for projects related to Image Processing with ImageJ. Specifically, below are descriptions of how to create, run, and delete plugins.
+
 ## <b>Tool:</b>
 ### - Eclipse IDE
 - version: 2022-09 (4.25.0)
 - build id: 20220908-1902
-### - OS: Pop!_OS 20.04 LTS 64-bit
+### - OS (Linux): Pop!_OS 20.04 LTS 64-bit
 
 
 #
